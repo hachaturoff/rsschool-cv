@@ -1,6 +1,6 @@
 # Oleg Hachaturov
 ## My English
-- [] A1
-- [] A2
+- [x] A1
+- [x] A2
 
 ## Contacts
